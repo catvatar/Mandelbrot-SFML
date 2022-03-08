@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\olekg\source\repos\SFML\SFML\main.cpp(100,26): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\olekg\source\repos\SFML\SFML\main.cpp(117,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\olekg\source\repos\SFML\SFML\main.cpp(284,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olekg\source\repos\SFML\SFML\main.cpp(284,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olekg\source\repos\SFML\SFML\main.cpp(290,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olekg\source\repos\SFML\SFML\main.cpp(290,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML.vcxproj -> C:\Users\olekg\source\repos\SFML\x64\Debug\SFML.exe
